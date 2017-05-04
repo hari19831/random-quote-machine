@@ -1,0 +1,33 @@
+blockquote {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    color:white;
+}
+
+#quote{
+    background-color: rgba(178,255,102,0.3);
+}
+#quote:hover{
+    background-color: rgba(178,255,102,.7);
+}
+
+#head{
+    background-color: rgba(51, 153, 255,0.3);
+}
+
+#head:hover{
+    background-color: rgba(51, 153, 255,0.5);
+}
+
+#block{
+    background-color: rgba(163, 195, 247,0.3);
+}
+
+#block:hover{
+    background-color: rgba(163, 195, 247,0.5);
+}
+
+body{
+    background-image: url(https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-1-full.jpg);
+}
